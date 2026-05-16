@@ -1,4 +1,4 @@
-
+Hotspot Shield vip Plugin: camouflage-mode & NAT-firewall offers the most advanced Hotspot Shield plugin, with camouflage-mode and NAT-firewall. Ideal for users who value privacy
 
 
 
